@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>TKU - STL || Taiwan's Rocket Maker</title>
+        <title>TKU - STL</title>
         <meta name="description" content="Official Website of Space Technology Laboratory, Tamkang University" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
